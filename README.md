@@ -1,7 +1,7 @@
 <h1 align="center" id="title">PHP CRUD</h1>
 
 
-<p id="description">Create, Read, Update, Delete project in PHP with connection to a MySQL database, styled with Googles Materialize</p>
+<p id="description">Create, Read, Update, Delete project in PHP with connection to a MySQL database, styled with Google Materialize</p>
 
 <h2>🚀 Demo</h2>
 
